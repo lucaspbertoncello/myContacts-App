@@ -1,7 +1,11 @@
 {
   "name": "api",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "API to store contacts",
+  "main": "src/index.js",
   "author": "Lucas Bertoncello",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
 }
